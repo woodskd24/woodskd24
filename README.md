@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on healthcare analytics
+- 🔭 I’m currently working on healthcare analytics projects
 - 🌱 I’m currently learning machine learning and EDA tools
 - 💬 Ask me about my current work in my MS Data Science program
 - 📫 How to reach me: woodskd20@gmail.com
