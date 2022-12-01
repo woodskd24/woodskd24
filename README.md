@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about my current work in my MS Data Science program & infectious disease research
 - 📫 How to reach me: woodskd20@gmail.com
 - 😄 Pronouns: She/Her/Hers
-- 👩‍💻 Open to work!
 
 ![image](https://user-images.githubusercontent.com/108799360/202910101-df45b211-0872-43fb-9012-75f335ef6549.png)
 
