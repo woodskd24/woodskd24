@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on healthcare analytics<br>🌱 I’m currently learning machine learning and EDA tools<br>💬 Ask me about my current work in my MS Data Science program & infectious disease research<br>📫 How to reach me: woodskd20@gmail.com<br>😄 Pronouns: She/Her/Hers
+🔭 I’m currently working in healthcare analytics<br>🌱 I’m currently learning advanced algorithms<br>💬 Ask me about my current work in my MS Data Science program & infectious disease research<br>📫 How to reach me: woodskd20@gmail.com<br>😄 Pronouns: She/Her/Hers
 
 
 ## 🌐 Socials:
