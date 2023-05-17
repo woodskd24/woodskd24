@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in healthcare analytics<br>🌱 I’m currently learning advanced algorithms<br>💬 Ask me about my current work in my MS Data Science program & infectious disease research<br>📫 How to reach me: woodskd20@gmail.com<br>😄 Pronouns: She/Her/Hers  <br> 💬 How to hire me for freelance work: https://www.upwork.com/freelancers/~01654d87a01977439e
+🔭 I’m currently working in healthcare analytics<br>🌱 I’m currently learning more about Google Cloud Computing <br>💬 Ask me about my current work in my MS Data Science program & infectious disease research<br>📫 How to reach me: woodskd20@gmail.com<br>😄 Pronouns: She/Her/Hers  <br> 💬 How to hire me for freelance work: https://www.upwork.com/freelancers/~01654d87a01977439e
 
 
 ## 🌐 Socials:
