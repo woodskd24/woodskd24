@@ -2,7 +2,8 @@
 🔭 I’m currently working in Bioinformatics<br>🌱 I’m currently learning more about Google Cloud Computing <br>💬 Ask me about my current work in my MS Data Science program & infectious disease research<br>😄 Pronouns: She/Her/Hers  <br> 💬 How to hire me for freelance work: https://www.upwork.com/freelancers/~01654d87a01977439e
 
 # CV/Resume
-[Kelsey+Woods+Resume+August.docx.pdf](https://github.com/woodskd24/woodskd24/files/12136233/Kelsey%2BWoods%2BResume%2BAugust.docx.pdf)
+[Kelsey+Woods+Resume+August1.docx.pdf](https://github.com/woodskd24/woodskd24/files/12177849/Kelsey%2BWoods%2BResume%2BAugust1.docx.pdf)
+
 
 
 
