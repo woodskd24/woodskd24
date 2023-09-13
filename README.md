@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelsey Woods</h1>
-<h3 align="center">A passionate Bioinformatician and MS Data Science Student (F'23)</h3>
+<h3 align="center">A passionate Data Manager and MS Data Science Student (F'23)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=woodskd24&label=Profile%20views&color=0e75b6&style=flat" alt="woodskd24" /> </p>
 
