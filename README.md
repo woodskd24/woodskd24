@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kelsey Woods</h1>
 <h3 align="center">A passionate Data Manager and MS Data Science Student (F'23)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woodskd24&label=Profile%20views&color=0e75b6&style=flat" alt="woodskd24" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=woodskd24" alt="woodskd24" /></a> </p>
-
 - 🔭 I’m currently working on **advanced machine learning techniques**
 
 - 🌱 I’m currently learning **deep learning**
