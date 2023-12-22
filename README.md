@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kelsey Woods</h1>
+<h1 align="center">Hi 👋, I'm Kelsey Woods, MS</h1>
 <h3 align="center">A passionate Data Manager</h3>
 
 - 🔭 I’m currently working on **advanced medical analytics**
-
-- 🤝 I’m looking for advice for **new PhD students in data science**
-
-- 👨‍💻 This Semester I am taking... **Inferential Analytics**
 
 - 💬 Ask me about **Time series analytics, and machine learning techniques**
 
