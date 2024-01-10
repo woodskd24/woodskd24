@@ -26,3 +26,6 @@
 ## 🎯 Seeking Opportunities:
 - Actively seeking **Data Scientist** roles to leverage my expertise in data analytics, machine learning, and bioinformatics to drive innovation and deliver impactful solutions. Open to roles in healthcare, technology, and other dynamic industries.
 
+## Book A Consultation/Meeting:
+ - https://calendly.com/woodskd20/30min
+
