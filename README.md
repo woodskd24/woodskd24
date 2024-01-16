@@ -1,6 +1,6 @@
-<h1 align="center">Kelsey Woods, MS | Data Scientist & Analytics Expert</h1>
+<h1 align="center">Kelsey Woods, MS | Data Science PhD Candidate</h1>
 
-- 🌟 **Passionate Data Scientist** with a focus on **advanced medical analytics** and **time series analysis**.
+- 🌟 **Passionate Data Scientist and Analytics Expert** with a focus on **advanced medical analytics** and **time series analysis**.
 - 🤖 Proficient in **Machine Learning**, **Predictive Modeling**, and leveraging **Big Data** to derive actionable insights.
 - 📊 Experienced in **data visualization** and **dashboard creation**, transforming complex data into clear, compelling narratives.
 - 🧬 Specialized background in **bioinformatics**, utilizing genomic and proteomic data for innovative research and solutions.
@@ -27,5 +27,5 @@
 - Actively seeking **Data Scientist** roles to leverage my expertise in data analytics, machine learning, and bioinformatics to drive innovation and deliver impactful solutions. Open to roles in healthcare, technology, and other dynamic industries.
 
 ## Book A Consultation/Meeting:
- - https://calendly.com/woodskd20/30min
+ - [Schedule a 30-minute consultation](https://calendly.com/woodskd20/30min)
 
